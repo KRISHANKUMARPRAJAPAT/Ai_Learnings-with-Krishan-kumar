@@ -1,5 +1,3 @@
-# Ai_Learnings-by-Krishan-kumar
-
 Welcome to my personal repository where I document my journey and learnings in the field of Data Science. Here, you'll find a collection of documents, projects, and handwritten notes that I've accumulated over time. The goal is to create a valuable resource for individuals who are navigating the vast landscape of data science and artificial intelligence.
 
 
