@@ -1,7 +1,8 @@
-Welcome to my personal repository where I document my journey and learnings in the field of Data Science. Here, you'll find a collection of documents, projects, and handwritten notes that I've accumulated over time. The goal is to create a valuable resource for individuals who are navigating the vast landscape of data science and artificial intelligence.
-
+# Welcome to my personal repository 
 
 I'm Krishna Kumar, a passionate learner in the field of Data Science. This repository serves as a centralized hub for all my educational materials, projects, and notes. My motivation is to assist others in their learning journey by providing a well-organized collection of resources.
+
+In this reposotory i document my journey and learnings in the field of Data Science. Here, you'll find a collection of documents, projects, and handwritten notes that I've accumulated over time. The goal is to create a valuable resource for individuals who are navigating the vast landscape of data science and artificial intelligence.
 
 The repository is organized into the following sections:
 
